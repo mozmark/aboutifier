@@ -1,0 +1,9 @@
+{
+    "name": "aboutifier", 
+    "license": "MPL 2.0", 
+    "author": "Mark Goodwin", 
+    "version": "0.1", 
+    "fullName": "aboutifier", 
+    "id": "jid1-80871XJ2PM6iGw", 
+    "description": "an addon to allow resource loading from different schemes from chrome JS"
+}
